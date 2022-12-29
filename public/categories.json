@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Cars",
+        "image": "https://i.ibb.co/MprNBgd/cars.png"
+    },
+    {
+        "id": "2",
+        "name": "Motorbikes",
+        "image": "https://i.ibb.co/82NhHLh/motorbike.png"
+    },
+    {
+        "id": "3",
+        "name": "Phones",
+        "image": "https://i.ibb.co/qrwXzv6/phone.png"
+    }
+]
